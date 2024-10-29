@@ -75,8 +75,8 @@ st.markdown(
 )
 
 # Page content
-st.markdown('<div class="title">🎨 Stable Diffusion Image Generator 🎨</div>', unsafe_allow_html=True)
-st.markdown('<div class="subheading">Generate beautiful images from text and initial images</div>', unsafe_allow_html=True)
+st.markdown('<div class="title"> Stable Diffusion Image Generator </div>', unsafe_allow_html=True)
+st.markdown('<div class="subheading">Generate an images from text and initial images</div>', unsafe_allow_html=True)
 
 # Text input for prompt
 prompt = st.text_input("Enter a text prompt", "a beautiful collection of fruit in a green environment")
