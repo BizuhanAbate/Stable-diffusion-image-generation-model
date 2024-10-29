@@ -45,7 +45,7 @@ To run this application, you need:
    - Finally click the "Generate Image" button and wait until the spinner finishs and provide you the artwork!
 
 3. View Results:
-     - The application will display the initial and generated images side by side after processing.
+     - The application will display the initial and generated images one after the other after processing.
      - Finally, deactivate the virtual environment with deactivate when you’re done.
 
 ## Code Structure
