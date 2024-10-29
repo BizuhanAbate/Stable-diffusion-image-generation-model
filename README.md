@@ -37,8 +37,7 @@ To run this application, you need:
 ## Usage
 
 1. Run the Application:
-    - To start the Streamlit server, since the name of the application is app.py, execute the following command in your terminal:
-       - streamlit run app.py
+    - To start the Streamlit server, since the name of the application is app.py, execute the following command in your terminal: `streamlit run app.py`
 
 2. Interact with the App:
    - It directly opens it on the web browser or you can navigate yourself to the address you get from the terminal.
