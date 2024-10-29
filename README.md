@@ -29,10 +29,10 @@ To run this application, you need:
        git clone https://github.com/BizuhanAbate/stable-diffusion-image-generator.git,
      - And then navigate into the project directory with: cd stable-diffusion-image-generator
 2. Install Required Packages:
-    - pip install streamlit torch Pillow diffusers
-It's recommended to create a virtual environment to manage dependencies, which you can do with:
- - python -m venv venv on Windows or
- - python3 -m venv venv on macOS/Linux
+    - pip install `streamlit` `torch` `Pillow` `diffusers`
+ - It's recommended to create a virtual environment to manage dependencies, which you can do with:
+    - python -m venv venv on Windows or
+    - python3 -m venv venv on macOS/Linux
    
 ## Usage
 
