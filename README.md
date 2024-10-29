@@ -38,15 +38,15 @@ To run this application, you need:
 
 1. Run the Application:
     - To start the Streamlit server, since the name of the application is app.py, execute the following command in your terminal:
-           - streamlit run app.py
+       - streamlit run app.py
 
-3. Interact with the App:
+2. Interact with the App:
    - It directly opens it on the web browser or you can navigate yourself to the address you get from the terminal.
    - Enter a descriptive text prompt in the input field.
    - Upload an initial image using browse files button.
    - Finally click the "Generate Image" button and wait until the spinner finishs and provide you the artwork!
 
-4. View Results:
+3. View Results:
      - The application will display the initial and generated images side by side after processing.
      - Finally, deactivate the virtual environment with deactivate when you’re done.
 
