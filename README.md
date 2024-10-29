@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/64060f10-839d-4e27-b8db-ab56310f1789)# Stable Diffusion Image Generator
+# Stable Diffusion Image Generator
 
 ## Overview
 
@@ -7,9 +7,9 @@ The application is designed to provide a user-friendly interface for experimenti
 
 ## Features
 
-- Text-and-Image-to-Image Generation: Enter a descriptive prompt and upload an initial image to generate an image.
-- Responsive UI: Intuitive layout with centered buttons and stylish design for ease of use.
-- Real-time Feedback: Receive updates during the image generation process.
+- `Text-and-Image-to-Image Generation:` Enter a descriptive prompt and upload an initial image to generate an image.
+- `Responsive UI:` Intuitive layout with centered buttons and stylish design for ease of use.
+- `Real-time Feedback:` Receive updates during the image generation process.
 
 ## Requirements
 
